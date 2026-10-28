@@ -1,18 +1,24 @@
 <div align="center">
 
-Luiz Felipe Manzoli Franceschini
-Computer Science @ University of São Paulo (ICMC-USP)
+# Luiz Felipe Manzoli Franceschini
+
+**Computer Science @ University of São Paulo (ICMC-USP)**  
 Undergraduate Researcher @ LSEC
 
-Systems Programming · Software Engineering · Cybersecurity Research
+`Systems Programming` · `Software Engineering` · `Cybersecurity Research`
 
 <a href="https://linkedin.com/in/luizmanza"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&amp;logo=linkedin&amp;logoColor=58a6ff" /></a>
 <a href="mailto:luizffrances@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-161b22?style=flat-square&amp;logo=gmail&amp;logoColor=58a6ff" /></a>
 <a href="https://orcid.org/0009-0003-5802-366X"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-161b22?style=flat-square&amp;logo=orcid&amp;logoColor=58a6ff" /></a>
+
 </div>
 
-I'm a Computer Science undergraduate at USP, exploring how software works beneath its abstractions — from Linux internals and data structures to electromagnetic side-channel security.
-Languages & tools
+---
+
+I'm a Computer Science undergraduate at **USP**, exploring how software works beneath its abstractions — from Linux internals and data structures to electromagnetic side-channel security.
+
+### Languages & tools
+
 <div align="center">
 
 <picture>
@@ -22,9 +28,11 @@ Languages & tools
 </picture>
 
 <sub>Also: SQL · GDB · Make · PostgreSQL · Ghidra · GNU Radio / SDR</sub>
+
 </div>
 
-Selected work
+### Selected work
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -40,10 +48,14 @@ Selected work
   </tr>
 </table>
 
-<sub>More projects: Graph Algorithms · Computer Science Coursework</sub>
-Research
-Electromagnetic Security & TEMPEST — Undergraduate researcher at LSEC / ICMC-USP, investigating electromagnetic information leakage using SDR and digital signal processing. Co-author of the 2026 manuscript Electromagnetic TEMPEST Attacks: A Bibliometric Analysis.
-GitHub activity
+<sub>More projects: [Graph Algorithms](https://github.com/lipe-manza/graphsProjects) · [Computer Science Coursework](https://github.com/lipe-manza/CollegePrograming)</sub>
+
+### Research
+
+**Electromagnetic Security & TEMPEST** — Undergraduate researcher at **LSEC / ICMC-USP**, investigating electromagnetic information leakage using SDR and digital signal processing. Co-author of the 2026 manuscript *Electromagnetic TEMPEST Attacks: A Bibliometric Analysis*.
+
+### GitHub activity
+
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=lipe-manza&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;card_width=390" alt="GitHub statistics" />
