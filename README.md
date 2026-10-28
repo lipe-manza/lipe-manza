@@ -61,10 +61,16 @@ I'm a Computer Science undergraduate at **USP**, exploring how software works be
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=lipe-manza&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;card_width=390" alt="GitHub statistics" />
 <img height="165" src="https://streak-stats.demolab.com/?user=lipe-manza&amp;theme=transparent&amp;hide_border=true&amp;card_width=390&amp;card_height=185&amp;disable_animations=true" alt="GitHub contribution streak" />
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lipe-manza&amp;bg_color=0d1117&amp;color=c9d1d9&amp;title_color=c9d1d9&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;area_color=58a6ff&amp;hide_border=true&amp;hide_title=true&amp;height=200&amp;days=30" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lipe-manza&amp;bg_color=ffffff&amp;color=24292f&amp;title_color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;area_color=0969da&amp;hide_border=true&amp;hide_title=true&amp;height=200&amp;days=30" />
-  <img width="100%" alt="GitHub activity during the last 30 days" src="https://github-readme-activity-graph.vercel.app/graph?username=lipe-manza&amp;theme=github-compact&amp;hide_border=true&amp;hide_title=true&amp;height=200&amp;days=30" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lipe-manza&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lipe-manza&amp;theme=github" />
+  <img width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lipe-manza&amp;theme=github_dark"
+    alt="GitHub contribution summary" />
 </picture>
+
 
 </div>
